@@ -11,4 +11,4 @@ This has been tested on the linux operating system (Debian, Centos). I’m not s
 2. ./ffmpeg_devices
 
 ### To Do
-[ ] - Show driver status. Does any service use it.
+- [ ] - Show driver status. Does any service use it.
