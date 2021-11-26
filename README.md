@@ -8,7 +8,7 @@ This has been tested on the linux operating system (Debian, Centos). I’m not s
 
 ### How to run?
 1. g++ src/man.cpp -o dvb_devices
-2. ./ffmpeg_devices
+2. ./dvb_devices
 
 ### To Do
 - [ ] - Show driver status. Does any service use it.
